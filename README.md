@@ -10,7 +10,7 @@ taraksh01/taraksh01 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">:pray: Namaste, I’m Tarak</h1>
-<p align="center">I am a frontend web developer <a target="_blank" href="https://taraksh01.vercel.app/">My portfolio web app</a></p>
+<p align="center">I am a passionate fullstack web developer <a target="_blank" href="https://taraksh01.vercel.app/">My portfolio web app</a></p>
 
 Connect with me at [![Linkedin Badge](https://img.shields.io/badge/-Tarak%20Shaw-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taraksh01/)
 
